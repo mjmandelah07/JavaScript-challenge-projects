@@ -46,7 +46,7 @@ kbd {
 }
 
 .playing {
-    transform: scale(1.1);
+    transform: rotate(180deg);
     border-color: #ffc600;
     box-shadow: 0 0 1rem #0e0d01;
   }
